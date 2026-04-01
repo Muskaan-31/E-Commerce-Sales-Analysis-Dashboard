@@ -27,7 +27,8 @@ An interactive 2-page Power BI dashboard built on a global orders dataset (~10,0
 - Dataset: Global Superstore Orders (provided, pre-cleaned)
 
 ## Key Visuals
-![Dashboard Preview](images/page1_preview.png)
+![Dashboard Preview]<img width="1148" height="631" alt="image" src="https://github.com/user-attachments/assets/457a26d3-f880-4b20-8868-d04970881989" />
+
 
 ## Status
 > **Note:** This is an initial build. An enhanced version with Python-based data cleaning, DAX measures, and business recommendations is currently in development.
